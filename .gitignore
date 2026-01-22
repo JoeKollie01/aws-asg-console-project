@@ -1,0 +1,10 @@
+cat > .gitignore <<'EOF'
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# screenshots cache or exports
+*.tmp
+EOF
