@@ -10,7 +10,8 @@ You’ll end up with:
 - **NAT Gateways** in public subnets so private instances can download updates and packages
 
 ## Architecture
-https://chatgpt.com/backend-api/estuary/content?id=file_00000000383071f8a4620d90753ed65a&ts=491402&p=fs&cid=1&sig=65b0dbc8fe3ecc8443cd5cc9680f1624150d94a8581649fe076215d9406cdc19&v=0
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/1675efba-87bb-4a93-a93c-307c74601b1b" />
+
 
 ## What you’re building
 - One **VPC** spread across **two Availability Zones** for high availability
